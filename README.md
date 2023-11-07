@@ -14,7 +14,6 @@ Free Port 8000 and 5672
 
 .env file is required
 
-replace MONGO_DSN in env with your database url.
 
 # To Run
 
